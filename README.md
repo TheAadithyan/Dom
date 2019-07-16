@@ -18,7 +18,6 @@
 - Support two language. English & Persian
 - Use locale Database
 
-**Demo** application is available in [Release]
 
 **Screenshot**
 
