@@ -42,7 +42,7 @@
 
 **Credit**
 
-### This app inspired from [Weather App Freebie] concept Designed by [Raman Yv] 
+### This app inspired from [Weather App Freebie] 
 
 # License
 
