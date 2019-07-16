@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/bkhezry/weather.svg?branch=master)](https://travis-ci.org/bkhezry/weather)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Weather%20App-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/7678)
 
-<p align="center"><img src="assets/screenshot-1.png" /></p>
+<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/50e1e078939845.5cb4312589f5b.gif" /></p>
 
 **Requirements**
 - Android Studio 3.5 beta 3
