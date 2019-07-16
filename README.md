@@ -1,5 +1,5 @@
 # Dom ⛅️
-Made with ♥ by Yan Chummar, at 14 Years of Age.
+Made with ♥ by Aadithyan Rajesh, at 14 Years of Age.
 
 
 [![Build Status](https://travis-ci.org/bkhezry/weather.svg?branch=master)](https://travis-ci.org/bkhezry/weather)
